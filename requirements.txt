@@ -1,0 +1,12 @@
+tensorflow==2.20.0
+numpy==1.26.4
+pandas
+opencv-python-headless
+matplotlib
+scikit-learn
+tqdm
+streamlit
+pillow
+scipy
+gdown
+fpdf
